@@ -8,8 +8,8 @@ public class BuildTreePreorder{
 
         Node(int data){
             this.data = data;
-            this.left = left;
-            this.right = right;
+            this.left = null;
+            this.right = null;
         }
     }
 
